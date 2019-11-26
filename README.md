@@ -194,7 +194,7 @@
 		</ol>
 			
 			<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ariana_Grande_-_Sweetener_%28rotated_180%C2%B0%29.svg/230px-Ariana_Grande_-_Sweetener_%28rotated_180%C2%B0%29.svg.png" alt= "Sweetener" width = "150"> <br>
-				<img src ="https://scontent-lhr3-1.cdninstagram.com/vp/bcc14096feba7eaed31cfe3c2b932ff2/5CAFF91F/t51.2885-15/e35/42104560_470223603499221_4377853268097796102_n.jpg?se=7&ig_cache_key=MTg4NTcxMDE3NTIzMTUxMzc1Nw%3D%3D.2" alt= "Sweetener" width = "150">
+				<img src ="https://images-na.ssl-images-amazon.com/images/I/61bnnLO1WCL._SL1200_.jpg" alt= "Sweetener" width = "150">
 		<ol> 
 			<li>Raindrops</li>
 			<li>Blazed</li>
@@ -210,6 +210,22 @@
 			<li>Goodnight'n Go</li>
 			<li>Pete Davidson</li>
 			<li>Get Well Soon</li>
+		</ol>
+	    		<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Thankunextlogo.png/230px-Thankunextlogo.png" alt= "Thank You Next" width = "150"> <br>
+	    			<img src ="https://www.onstageweb.com/wp-content/uploads/2019/02/ariana-grande-thank-you-next-2019-740x740.jpg" alt= "Thank You Next" width = "150">
+	    	<ol>
+			<li>Imagine</li>
+			<li>Needy</li>
+			<li>NASA</li>
+			<li>Bloodline</li>
+			<li>Fake Smile</li>
+			<li>Bad Idea</li>
+			<li>Make Up</li>
+			<li>Ghostin</li>
+			<li>In My Idea</li>
+			<li>7 Rings</li>
+			<li>Thank U, Next</li>
+			<li>Break Up With Your Girlfriend, I'm Bored</li>
 		</ol>
 	</body>
 	
