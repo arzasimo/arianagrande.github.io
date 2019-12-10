@@ -124,7 +124,7 @@
 			
 			<h4>2015-2017: Dangerous Woman</h4>
 			<p id="infobio">
-			<img id="Ariana1517" src="" alt="Ariana Grande 2015-2017" width="205">
+			<img id="Ariana1517" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Dangerous_Woman_Tour2.jpg/800px-Dangerous_Woman_Tour2.jpg" alt="Ariana Grande 2015-2017" width="205">
 			A maggio la cantante è al lavoro sul suo terzo album, con la collaborazione dei dj Zedd e Cashmere Cat, con la quale aveva pubblicato il singolo Adore.<br>
 			Tramite Twitter la cantante annuncia il possibile nome del nuovo album, Moonlight, dichiarando che questo potrebbe uscire nel 2016. <br>
 			A marzo la Grande viene scelta per la serie televisiva horror Scream Queens. <br>
