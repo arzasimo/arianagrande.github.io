@@ -55,6 +55,7 @@
 			<ul>
 				<li><a href = "#Biografia">Biografia</a></li>
 				<li><a href = "#Album">Album</a></li>
+				<li><a href = "#Eventi">Eventi</a></li>
 			</ul>
 		
 		
@@ -248,6 +249,8 @@
 			<li>Thank U, Next</li>
 			<li>Break Up With Your Girlfriend, I'm Bored</li>
 		</ol>
+		
+		<h4 id="Eventi">Eventi</h4>
 	</body>
 	
 	
