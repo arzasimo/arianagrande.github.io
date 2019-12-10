@@ -19,6 +19,10 @@
 			font-family:monospace;
 			font-size:14px;
 			}
+		#infoevent{
+			font-family:monospace;
+			font-size:14px;
+			}
 		#Ariana-Baby{
 			float: left;
             margin-right: 6px;
@@ -251,6 +255,8 @@
 		</ol>
 		
 		<h4 id="Eventi">Eventi</h4>
+		<p id="infoevent">
+		</p>
 	</body>
 	
 	
