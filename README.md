@@ -124,6 +124,22 @@
 			
 			<h4>2015-2017: Dangerous Woman</h4>
 			<p id="infobio">
+			<img id="Ariana1517" src="" alt="Ariana Grande 2015-2017" width="205">
+			A maggio la cantante è al lavoro sul suo terzo album, con la collaborazione dei dj Zedd e Cashmere Cat, con la quale aveva pubblicato il singolo Adore.<br>
+			Tramite Twitter la cantante annuncia il possibile nome del nuovo album, Moonlight, dichiarando che questo potrebbe uscire nel 2016. <br>
+			A marzo la Grande viene scelta per la serie televisiva horror Scream Queens. <br>
+			Il 25 settembre 2015 viene pubblicato su iTunes il brano E più ti penso, in cui la cantante duetta con il tenore Andrea Bocelli cantando in lingua italiana.<br>
+			Il 18 dicembre 2015 viene pubblicato Christmas & Chill, un EP di sei tracce basato sul Natale con appropriati sound e testi. <br>
+			L'11 febbraio 2016 esce il film Zoolander 2 mentre pochi giorni dopo ha annunciato il titolo ufficiale del suo terzo album, Dangerous Woman. Dangerous Woman, Be Alright, Let Me Love You. <br>
+			Nel novembre 2016 ha collaborato con Stevie Wonder al singolo Faith utilizzato come colonna sonora del film Sing. <br>
+
+			Nel 2017 dà il via al suo terzo tour mondiale, Dangerous Woman Tour, con tappe in Europa, America e in Asia. <br>
+			La sera del 22 maggio 2017, al termine di un suo concerto presso la Manchester Arena, un attentato terroristico perpetrato da un kamikaze provoca 22 vittime e più di 500 feriti dove l'artista rimane illesa.<br> 
+			In risposta a tale avvenimento, ha organizzato per il 4 giugno seguente un concerto di beneficenza intitolato <a href = "#OneLoveManchester">One Love Manchester</a>, al quale ha invitato a partecipare artisti di primo piano della musica pop internazionale.<br>
+			Per riconoscere i suoi sforzi, il Consiglio Comunale di Manchester ha nominato Ariana Grande come prima cittadina onoraria di Manchester.<br>
+			Il tour è ripreso il 7 giugno a Parigi e si è concluso a settembre 2017.<br>
+			Nel dicembre 2017, la rivista Billboard l'ha nominata "Artista femminile dell'anno".<br>
+			Il 29 novembre 2018 è uscita la docu-serie del Dangerous Woman Tour su YouTube Premium.<br>
 			</p>
 			
 			
