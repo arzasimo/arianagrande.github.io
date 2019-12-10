@@ -39,6 +39,11 @@
             margin-right: 6px;
             margin-bottom: 6px;
 		}
+		#Ariana1517{
+			float: left;
+            margin-right: 6px;
+            margin-bottom: 6px;
+		}
 		</style>
 	</head>
 	
