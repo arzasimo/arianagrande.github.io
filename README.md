@@ -84,7 +84,7 @@
 			
 			<h4>2013: Yours Truly</h4>
 			<p id="infobio">
-			<img id="Ariana13" src="https://data.whicdn.com/images/76916944/large.png" alt="Ariana Grande 2013" width="205">
+			<img id="Ariana13" src="https://s.yimg.com/uu/api/res/1.2/q5hOXQunjBEzpuD5M3TvRA--~B/aD0xODAwO3c9MTIwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/homerun/entertainment_weekly_785/3a9866b0024785208d7d552f1c9b691e" alt="Ariana Grande 2013" width="205">
 			Ariana Grande completa il suo primo album di inediti, Yours Truly, nel giugno 2013, dopo tre anni di lavoro. <br>
 			L'album viene pubblicato il 2 settembre 2013 nel Regno Unito, e un giorno dopo negli Stati Uniti d'America, per la Republic Records. <br>
 			Il 26 marzo 2013, viene pubblicato il primo singolo estratto dall'album di debutto, The Way, un duetto con Mac Miller. <br>
