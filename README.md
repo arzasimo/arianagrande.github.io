@@ -58,6 +58,11 @@ DOCTYPE HTML>
             margin-right: 6px;
             margin-bottom: 6px;
 		}
+		#DWT{
+			float: left;
+            margin-right: 6px;
+            margin-bottom: 6px;
+		}
 		</style>
 	</head>
 	
