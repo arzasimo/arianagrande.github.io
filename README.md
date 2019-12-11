@@ -155,7 +155,7 @@ DOCTYPE HTML>
 					L'11 febbraio 2016 esce il film Zoolander 2 mentre pochi giorni dopo ha annunciato il titolo ufficiale del suo terzo album, Dangerous Woman. Dangerous Woman, Be Alright, Let Me Love You. <br>
 					Nel novembre 2016 ha collaborato con Stevie Wonder al singolo Faith utilizzato come colonna sonora del film Sing. <br>
 
-					Nel 2017 dà il via al suo terzo tour mondiale, Dangerous Woman Tour, con tappe in Europa, America e in Asia. <br>
+					Nel 2017 dà il via al suo terzo tour mondiale, <a href ="#DWT">Dangerous Woman Tour</a>, con tappe in Europa, America e in Asia. <br>
 					La sera del 22 maggio 2017, al termine di un suo concerto presso la Manchester Arena, un attentato terroristico perpetrato da un kamikaze provoca 22 vittime e più di 500 feriti dove l'artista rimane illesa.<br> 
 					In risposta a tale avvenimento, ha organizzato per il 4 giugno seguente un concerto di beneficenza intitolato <a href = "#OneLoveManchester">One Love Manchester</a>, al quale ha invitato a partecipare artisti di primo piano della musica pop internazionale.<br>
 					Per riconoscere i suoi sforzi, il Consiglio Comunale di Manchester ha nominato Ariana Grande come prima cittadina onoraria di Manchester.<br>
