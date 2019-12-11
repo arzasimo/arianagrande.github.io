@@ -279,7 +279,7 @@ DOCTYPE HTML>
 			</p>
 		<h4>2013: Listening Session Tour</h4>					
 			<p id="infoevent">
-				<img id = "LST" src ="https://upload.wikimedia.org/wikipedia/en/0/0f/AGrande_2013TourPoster.jpg" alt= "Listening Session Tour" width =150">
+				<img id="LST" src="https://upload.wikimedia.org/wikipedia/en/0/0f/AGrande_2013TourPoster.jpg" alt= "Listening Session Tour" width =150">
 				Listening Sessions è stato il primo tour di concerti della cantante <br>
 				Il tour ha supportato l'album di debutto in studio <br>
 				Il tour è iniziato l'11 agosto 2013 e si è concluso il 22 settembre 2013<br>
@@ -287,7 +287,7 @@ DOCTYPE HTML>
 			</p>
 		<h4>2015: Honeymoon Tour</h4>
 			<p id="HMT">
-				<img id = "LST" src ="https://lastfm.freetls.fastly.net/i/u/770x0/3e2415d3e18548f12936525305c9dfa3.webp#3e2415d3e18548f12936525305c9dfa3" alt= "Honeymoon Tour" width =150">
+				<img id="LST" src="https://lastfm.freetls.fastly.net/i/u/770x0/3e2415d3e18548f12936525305c9dfa3.webp#3e2415d3e18548f12936525305c9dfa3" alt= "Honeymoon Tour" width =150">
 			</p>
 	</body>
 	
